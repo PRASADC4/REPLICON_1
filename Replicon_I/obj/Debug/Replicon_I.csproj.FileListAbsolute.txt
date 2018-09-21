@@ -1,0 +1,6 @@
+D:\TUTORIALTEST\Replicon_I\Replicon_I\bin\Debug\Replicon_I.exe.config
+D:\TUTORIALTEST\Replicon_I\Replicon_I\bin\Debug\Replicon_I.exe
+D:\TUTORIALTEST\Replicon_I\Replicon_I\bin\Debug\Replicon_I.pdb
+D:\TUTORIALTEST\Replicon_I\Replicon_I\obj\Debug\Replicon_I.csprojResolveAssemblyReference.cache
+D:\TUTORIALTEST\Replicon_I\Replicon_I\obj\Debug\Replicon_I.exe
+D:\TUTORIALTEST\Replicon_I\Replicon_I\obj\Debug\Replicon_I.pdb
